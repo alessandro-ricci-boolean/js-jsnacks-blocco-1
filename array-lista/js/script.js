@@ -1,5 +1,3 @@
-// ESERCIZIO 1
-
 const fruits = ['banana', 'mela', 'pera', 'ciliegia', 'arancia', 'mandarino', 'cocomero', 'limone', 'fragola'];
 
 fruits.push("pesca");
@@ -18,6 +16,4 @@ if(flag == true){
 else{
     console.log("Oh no, devo uscire a comprare il cocomero!");
 }
-
-// ESERCIZIO 2
 
